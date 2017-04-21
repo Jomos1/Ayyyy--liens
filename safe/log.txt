@@ -1,0 +1,61 @@
+4/5/17
+
+Zak: JS / CSS / HTML
+Zedrick: Forms (Say Something)
+Christian: Home Page + "All Topics" interface / HTML
+Jomari: Single Topic expand and single fade animation
+Talon: CSS / HTML
+
+4/7/17
+
+Scrum Meeting #1:
+Between least period and today initial files were created (CSS, JS, HTML); also htmls for each view were started on. Today will mostly be working on each view for the website making sure every page is similarly coded and has a baseline look to it. No problems encountered yet.
+
+Christian and Zak: Home page HTML view, structure and format
+Zedrick and Jomari: Form HTML view / JS functionality and form coding
+Talon: CSS on home page and other views, gathering resources of images / color hex
+
+4/10/17
+
+Scrum Meeting #2:
+After discussion, two of the three views/webpages were finished (HTML and CSS); these webviews were also linked and have working hover animations and effects. Today will consist of starting on JavaScript animations for the web form as well as completing the third webpage (All Topics). 
+
+Christian and Zak: All topics HTML view, structure and styling, make responsive
+Zedrick and Jomari: Start and JS animations for singles topic expansion
+Talon: Rearrange CSS properties for easier code reviewing
+
+4/12/17
+
+Scrum Meeting #3:
+The last and final webview (all-topic.html) was completed along with many UX and UI enhancements; each webpage's css styles had web prefixes added to them including a normalize.css. Pages were made dynamic with media queries for different computer sizes and phones alike. Sort button, on click, opens an overlay including different options to filter.
+
+Christian and Zak: Combine different sort button overlays at different screen widths
+Zedrick and Jomari: Continue progress on single-topic css and expansion
+Talon: Review CSS code, remove duplicates; reorder properties
+
+4/17/17
+
+Scrum Meeting #4:
+CSS was neatly reordered into a general-styles.css to prevent repetitive styles throughout the different style sheets. More progress was made on expanding the topic on click; it was decided that this would be done using event listener to target one specific div rather than all divs with the same class.
+
+Christian: Pseudo code and logic behind voting system
+Zedrick, Jomari, and Zak: Work on using event listener instead of classes
+Talon: Styles for the voting, mock data, and vote animations
+
+4/19/17
+
+Scrum Meeting #5:
+Event listener has made slight progress, still opens all divs upon click; pseudo code logic for javascript was finished. Counters for number of votes and comments are currently being added; styling and animations on voting system has just been started. Researched local storage to store data locally via form.
+
+Christian: Refine pseudo code, finish counters, add number of votes above up & down arrow
+Zedrick, Jomari, and Zak: Troubleshoot/debug event listener errors upon click
+Talon: Fix local CSS merge conflicts, continue work on styling and animations for voting system
+
+4/21/17
+
+Scrum Meeting #6:
+Talon fixed merged conflicts, voting styles have been started on will continue progress; pseudo code finalized, HTML for voting system refined with flexbox and styles. Expand topic with eventListener is now functional and in stages of finalization. The say something form  custom dropdown is finishe, localStorage will be added to the form.
+
+Zedrick and Jomari: Expanding comments box upon click of topic
+Christian and Zak: Fix voting flexbox and work on implementing localStorage
+Talon: Voting system styles and animation when upvoting/downvoting
